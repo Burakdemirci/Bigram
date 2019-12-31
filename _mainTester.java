@@ -8,7 +8,7 @@ import java.io.*;
 
 /**
  *
- * @author akay
+ * @author burak demirci
  */
 public class _mainTester {
 
